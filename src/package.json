@@ -1,0 +1,12 @@
+{
+  "name": "c3apps",
+  "version": "1.0.0",
+  "description": "\"Test app for listening on 2 ports\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "srajvans@cisco.com",
+  "license": "MIT"
+}
