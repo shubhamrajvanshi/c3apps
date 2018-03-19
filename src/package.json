@@ -7,6 +7,6 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "srajvans@cisco.com",
+  "author": "shubhamrajvanshi9@gmail.com",
   "license": "MIT"
 }
